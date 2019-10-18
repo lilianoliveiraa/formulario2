@@ -9,11 +9,13 @@
         <p><input type="text" id="name" name="name" /></p>
     </div>
     <div>
-        <p><label for="cpf">CPF:</label><p>
+        <p><label for="cpf">CPF:</label></p>
         <p><input type="number" id="cpf" name="cpf"/></p>
     </div>
+    <div>
         <p><label for="da">Data de Nascimento:</label></p>
         <p><input type="text" id="date" name:"date"/></p>
+    </div>
     <div>
         <p><label for="phone">Contato:</label></p>
         <p><input type="phone" id="mobile-number" name="mobile-number" /></p>
