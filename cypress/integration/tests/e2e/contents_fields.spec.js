@@ -3,7 +3,7 @@ describe('test form', function() {
     cy.visit('http://localhost:4444') // change URL to match your dev URL
   })
 })
-describe('test form required fields', function() {
+describe('test form contents fields', function() {
   it('required fields', function() {
     cy.visit('http://localhost:4444')
 
